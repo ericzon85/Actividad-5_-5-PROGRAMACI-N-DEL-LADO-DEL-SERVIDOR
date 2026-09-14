@@ -1,6 +1,6 @@
-Descarga y descomprime el proyecto
- busca el archivo backend-taller2-citas.zip que te compartí (el mensaje anterior) y descárgalo. 
-Normalmente en tu carpeta Descargas.
+Descargar y descomprimir el proyecto
+ busca el archivo backend-taller2-citas.zip y descargarlo. 
+se descarga en la carpeta Descargas.
 Haz doble clic sobre el .zip → Extraer aquí (Windows). 
 Mover a un lugar fácil, por ejemplo el Escritorio, en una carpeta llamada backend-taller2-citas.
 Verifica que dentro de esa carpeta veas: server.js, package.json, y las carpetas db, routes, middleware, public.
